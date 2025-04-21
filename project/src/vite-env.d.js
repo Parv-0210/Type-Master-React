@@ -1,0 +1,1 @@
+// This file can be safely removed as it's not needed in JavaScript
